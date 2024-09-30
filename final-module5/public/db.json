@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "code": "PROD-0001",
+        "name": "Omeprazole",
+        "category": "Thể dạ dày",
+        "quantity": 10,
+        "price": 10000,
+        "dateAdded": "2024-01-01"
+      },
+      {
+        "id": 2,
+        "code": "PROD-0002",
+        "name": "Amoxicillin",
+        "category": "Thuốc kháng sinh",
+        "quantity": 5,
+        "price": 15000,
+        "dateAdded": "2024-02-01"
+      }
+    ],
+    "categories": [
+      "Thuốc giảm đau",
+      "Kháng sinh",
+      "Thuốc dạ dày"
+    ]
+  }
+  
